@@ -9,10 +9,11 @@
 - [x] TASIK MADOE - Kartu kadaluarsa ✅ 2026/02/5 10:35 - 2026/02/5 11:12
 
 ## 2026-02-05
-- [ ] GIK UGM - tampilan cashless dengan foto 🔨 2026/02/5 08:30 - 2026/02/5 xx:xx
-- [ ] GIK UGM - tap member 🔨 2026/02/5 08:30 - 2026/02/5 xx:xx
+- [ ] GIK UGM - tampilan cashless dengan foto 🛠️ 2026/02/6 08:30 - 2026/02/5 xx:xx
+- [ ] GIK UGM - tap member 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
+- [ ] GIK UGM - Masalah BRI dan BCA 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
 - [x] PANAJAM - Cetak delay ✅ 2026/02/6 08:30 - 2026/02/6 10:25
-- [ ] MK SIMAJUNTAK - Split server
+- [ ] MK SIMAJUNTAK - Split server 🛠️ 2026/02/6 13:00 - 2026/02/6 xx:xx
 - [ ] DUTAPARKIR - Prototype esp32 Dispenser
 - [ ] RSI SEMARANG - Tidak bisa tapin tapout
 - [ ] BALI CUCI - Tarif 0 scan di pintu keluar
