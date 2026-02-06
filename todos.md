@@ -13,6 +13,7 @@
 - [ ] GIK UGM - tap member 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
 - [ ] GIK UGM - Masalah BRI dan BCA 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
 - [x] PANAJAM - Cetak delay ✅ 2026/02/6 08:30 - 2026/02/6 10:25
+- [ ] PANAJAM - Masih delay mungkin tombolnya rusak 🛠️ 2026/02/6 14:00 - 2026/02/6 xx:xx
 - [ ] MK SIMAJUNTAK - Split server 🛠️ 2026/02/6 13:00 - 2026/02/6 xx:xx
 - [ ] DUTAPARKIR - Prototype esp32 Dispenser
 - [ ] RSI SEMARANG - Tidak bisa tapin tapout
