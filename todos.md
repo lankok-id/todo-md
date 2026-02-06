@@ -11,7 +11,7 @@
 ## 2026-02-05
 - [ ] GIK UGM - tampilan cashless dengan foto 🔨 2026/02/5 08:30 - 2026/02/5 xx:xx
 - [ ] GIK UGM - tap member 🔨 2026/02/5 08:30 - 2026/02/5 xx:xx
-- [ ] PANAJAM - Cetak delay
+- [x] PANAJAM - Cetak delay ✅ 2026/02/6 08:30 - 2026/02/6 10:25
 - [ ] MK SIMAJUNTAK - Split server
 - [ ] DUTAPARKIR - Prototype esp32 Dispenser
 - [ ] RSI SEMARANG - Tidak bisa tapin tapout
