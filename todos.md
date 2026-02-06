@@ -5,9 +5,14 @@
 - [x] SERAYU OPAK - Cek nopol 6 digit maks ✅ 2026/02/4 14:15
 
 ## 2026-02-05
-- [ ] GIK UGM - tampilan cashless 💨 2026/02/5 08:30 - 2026/02/5 xx:xx
+- [x] GIK UGM - display sleep dan kasih delay ✅ 2026/02/5 08:30 - 2026/02/5 15:53
+- [x] TASIK MADOE - Kartu kadaluarsa ✅ 2026/02/5 10:35 - 2026/02/5 11:12
+
+## 2026-02-05
+- [ ] GIK UGM - tampilan cashless dengan foto 🔨 2026/02/5 08:30 - 2026/02/5 xx:xx
+- [ ] GIK UGM - tap member 🔨 2026/02/5 08:30 - 2026/02/5 xx:xx
 - [ ] PANAJAM - Cetak delay
-- [ ] MK SIMAJUNTAK - Split server 💨 2026/02/5 09:00 - 2026/02/5 xx:xx
+- [ ] MK SIMAJUNTAK - Split server
 - [ ] DUTAPARKIR - Prototype esp32 Dispenser
 - [ ] RSI SEMARANG - Tidak bisa tapin tapout
-- [x] TASIK MADOE - Kartu kadaluarsa ✅ 2026/02/5 10:35 - 2026/02/5 11:12
+- [ ] BALI CUCI - Tarif 0 scan di pintu keluar
