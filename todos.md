@@ -18,6 +18,15 @@
 - [ ] GIK UGM - Tap member (mungkin wiring relay lpr) 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
 - [ ] GIK UGM - Masalah BRI dan BCA 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
 - [ ] MK SIMAJUNTAK - Split server utama config (tunggu jaringan disana)
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (test lan)
+- [ ] RSI SEMARANG - Tidak bisa tapin tapout
+- [ ] BALI CUCI - Tarif 0 scan di pintu keluar
+
+## 2026-02-09
+- [ ] GIK UGM - tampilan cashless dengan foto 🛠️ 2026/02/6 08:30 - 2026/02/5 xx:xx
+- [ ] GIK UGM - Tap member (mungkin wiring relay lpr) 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
+- [ ] GIK UGM - Masalah BRI dan BCA 🛠️ 2026/02/5 08:30 - 2026/02/6 xx:xx
+- [ ] MK SIMAJUNTAK - Split server utama config (tunggu jaringan disana)
 - [ ] DUTAPARKIR - Prototype esp32 Dispenser
 - [ ] RSI SEMARANG - Tidak bisa tapin tapout
 - [ ] BALI CUCI - Tarif 0 scan di pintu keluar
