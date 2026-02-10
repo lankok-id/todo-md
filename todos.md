@@ -29,10 +29,19 @@
 
 ## 2026-02-10
 
-- [x] XL ADISUDJIPTO - cetak struk ga bisa, mesti fokus clinya baru bisa  2026/02/9 09:00 - 2026/02/10 xx:xx
+- [x] XL ADISUDJIPTO - cetak struk ga bisa, mesti fokus cliknya baru bisa ✅ 2026/02/9 09:00 - 2026/02/10 08:40
+- [x] PLTU REMBANG - 212 off sudah cabut pasang masih belum bisa (corupt) ✅ 2026/02/10 08:15 - 2026/02/10 09:00  
+- [x] BALI CUCI - Tarif 0 scan di pintu keluar (kasih log setiap api) ✅ 2026/02/10 09:05 - 2026/02/10 14:35
+- [x] SERAYU OPAK - MAS LULUK - cek pintu keluar "katanya" gabisa 🛠️ 2026/02/10 09:05 - 2026/02/10 14:35
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (fix: ip static) ✅ 2026/02/10 08:30 - 2026/02/10 :16:00
+
+
+## 2026-02-11
+- [ ] PELINDO DUMAI - penambahan jam dan tanggal di tiket 
+- [ ] PELINDO DUMAI - hapus di footer hilangin kata "tiket parkir"
+- [ ] RSI SEMARANG - Tidak bisa tapin tapout (jaringan ga ada)
+
 - [ ] DUTAPARKIR - Prototype esp32 Dispenser🛠️ 2026/02/9 08:30 - 2026/02/10 xx:xx
 - [ ] GIK UGM - tampilan cashless dengan foto 🛠️ 2026/02/6 08:30 - 2026/02/10 xx:xx
 - [ ] GIK UGM - Tap member (mungkin wiring relay lpr) 🛠️ 2026/02/5 08:30 - 2026/02/10 xx:xx
 - [ ] GIK UGM - Masalah BRI dan BCA 🛠️ 2026/02/5 08:30 - 2026/02/10 xx:xx
-- [ ] RSI SEMARANG - Tidak bisa tapin tapout (jaringan ga ada)
-- [ ] BALI CUCI - Tarif 0 scan di pintu keluar
