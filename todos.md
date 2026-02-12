@@ -16,9 +16,9 @@
 - [x] MK SIMAJUNTAK - Split server setup ✅ 2026/02/6 13:00 - 2026/02/6 15:30
 - [x] PANAJAM - Masih delay mungkin tombolnya rusak (tambah suara beep on tombol) ✅ 2026/02/6 14:00 - 2026/02/6 14:15
 
-## 2026-02-07
+## 2026-02-07 (Sabtu)
 
-- [x] DUTAPARKIR - Prototype esp32 Dispenser (test lan)
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (test lan dan web config)
 
 ## 2026-02-09
 
@@ -30,18 +30,29 @@
 ## 2026-02-10
 
 - [x] XL ADISUDJIPTO - cetak struk ga bisa, mesti fokus cliknya baru bisa ✅ 2026/02/9 09:00 - 2026/02/10 08:40
-- [x] PLTU REMBANG - 212 off sudah cabut pasang masih belum bisa (corupt) ✅ 2026/02/10 08:15 - 2026/02/10 09:00  
+- [x] PLTU REMBANG - 212 off sudah cabut pasang masih belum bisa (corupt) ✅ 2026/02/10 08:15 - 2026/02/10 09:00
 - [x] BALI CUCI - Tarif 0 scan di pintu keluar (kasih log setiap api) ✅ 2026/02/10 09:05 - 2026/02/10 14:35
-- [x] SERAYU OPAK - MAS LULUK - cek pintu keluar "katanya" gabisa 🛠️ 2026/02/10 09:05 - 2026/02/10 14:35
+- [x] PLTU REMBANG - 212 off sudah cabut pasang masih belum bisa (backupunnya ga paling baru) ✅ 2026/02/10 13:00 - 2026/02/10 14:30
+- [x] SERAYU OPAK - MAS LULUK - cek pintu keluar "katanya" gabisa ✅ 2026/02/10 09:05 - 2026/02/10 14:35
 - [x] DUTAPARKIR - Prototype esp32 Dispenser (fix: ip static) ✅ 2026/02/10 08:30 - 2026/02/10 :16:00
 
-
 ## 2026-02-11
-- [ ] PELINDO DUMAI - penambahan jam dan tanggal di tiket 
-- [ ] PELINDO DUMAI - hapus di footer hilangin kata "tiket parkir"
-- [ ] RSI SEMARANG - Tidak bisa tapin tapout (jaringan ga ada)
 
-- [ ] DUTAPARKIR - Prototype esp32 Dispenser🛠️ 2026/02/9 08:30 - 2026/02/10 xx:xx
-- [ ] GIK UGM - tampilan cashless dengan foto 🛠️ 2026/02/6 08:30 - 2026/02/10 xx:xx
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (rtos reader) ✅ 2026/02/9 08:20 - 2026/02/10 09:16
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (test tombol dengan dua vld jenisk) ✅ 2026/02/9 08:20 - 2026/02/10 12:11
+- [x] PELINDO DUMAI - hapus di footer hilangin kata "tiket parkir" ✅ 2026/02/9 13:30 - 2026/02/9 14:00
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (test reader) ✅ 2026/02/9 13:20 - 2026/02/10 15:00
+- [x] DUTAPARKIR - Prototype esp32 Dispenser (Bikin piout) ✅ 2026/02/9 15:00 - 2026/02/10 15:10
+
+## 2026-02-12
+
+- [x] GIK UGM - tampilan cashless dengan foto (mockup tampilan) ✅ 2026/02/12 08:30 - 2026/02/12 11:00
+- [x] GIK UGM - tampilan cashless dengan foto (update program cashless) ✅ 2026/02/12 11:00 - 2026/02/12 14:11
+- [x] GIK UGM - tampilan cashless dengan foto (lanjut bikin tampilan) ✅ 2026/02/12 14:11 - 2026/02/12 14:57
+- [x] GIK UGM - tampilan cashless dengan foto (uji coba lokal) ✅ 2026/02/12 14:58 - 2026/02/12 16:00
+- [x] RSI SEMARANG - Tidak bisa tapin tapout (cek) 🛠️ 2026/02/12 10:30 - 2026/02/12 13:30
+
 - [ ] GIK UGM - Tap member (mungkin wiring relay lpr) 🛠️ 2026/02/5 08:30 - 2026/02/10 xx:xx
-- [ ] GIK UGM - Masalah BRI dan BCA 🛠️ 2026/02/5 08:30 - 2026/02/10 xx:xx
+- [ ] PELINDO DUMAI - penambahan jam dan tanggal di tiket
+
+- [ ] DUTAPARKIR - Prototype esp32 Dispenser 🛠️ 2026/02/9 08:30 - 2026/02/10 xx:xx
