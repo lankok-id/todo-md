@@ -85,3 +85,24 @@
 - [x] GIK UGM - Tap member (cek member --> member tidak terdaftar) ✅ 14:00 - 15:00
 - [x] RSUD NGANJUK - EMONEY (pintu keluar serial tidak baca) ✅ 14:30 - 14:49
 - [x] RSUD NGANJUK - EMONEY (pintu masuk program korup) ✅ 14:49 - 15:53 
+
+## 2026-02-21
+- [x] PANAJAM - Ganti alur qris buffer (tidak jadi - tambah buffer size) ✅ 08:30 - 09:32
+- [x] GIK UGM - Tap member (LOG masuk-acr.php dan prabayar-uid.php) ✅ 09:32 - 10:35
+- [x] UM - check mini pc (crontab -rusak) ✅ 13:00 - 13:23
+- [x] DEPATI BAHRAIN - jam kamera ✅ 13:12 - 15:00 
+
+## 2026-02-23
+- [x] DUTA HRM - tracking (masih belum bisa jalan kalau aplikasi di close) ✅ 08:47 - xx:xx
+
+## 2026-02-26
+- [x] DUTAPAKIR - Cari fix untuk reader acr membedakan kartu emoney dengan kartu lainnya (pakai read firmware APDU = [0xFF, 0xCA, 0x01, 0x00, 0x00]) ✅ 08:30 - xx:xx
+- [x] MANNA SIMAJUNTAL - INSTALL CLOUDLARED ✅ 08:30 - xx:xx 
+
+## 2026-03-02
+- [x] DUTAPARKIR - Set github ssh untuk server absen  ✅ 08:30 - 09:15
+- [x] AINO RSI SEMARANG - fix print saldo ✅ 09:15 - 09:40
+- [x] AINO RSI SEMARANG - backup ✅ 09:40 - 10:15
+- [x] MIROTA SIMAJUNTAK - backup server 2 ✅ 10:16 - 11:07
+- [x] MIROTA SIMAJUNTAK - perbaiki server 2 laporan ✅ 10:16 - 11:07
+- [x] DUTAPARKIR - esp32 dispenser (ga bisa upload, ternyata voltase kurang) ✅ 13:00 - 16:00
