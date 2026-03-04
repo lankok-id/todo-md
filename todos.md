@@ -106,3 +106,25 @@
 - [x] MIROTA SIMAJUNTAK - backup server 2 ✅ 10:16 - 11:07
 - [x] MIROTA SIMAJUNTAK - perbaiki server 2 laporan ✅ 10:16 - 11:07
 - [x] DUTAPARKIR - esp32 dispenser (ga bisa upload, ternyata voltase kurang) ✅ 13:00 - 16:00
+
+## 2026-03-03
+- [x] EMBUNG GIWANGAN - backup ✅ 08:30 - xx:xx
+- [x] EMBUNG GIWANGAN - fix dual vld ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (pindah pin relay ke pin led soalnya pin 2 itu strapping pin, jadi ga bisa masuk ke upload mode kalau di pasang relay, relaynya pulldown) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (perbaiki request tombol) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (revisi: reset button pullup keliru) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (mp3 konslet semua pin) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (RTOS web) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (RTOS sensor) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (monitor web & led status) ✅ 08:30 - xx:xx
+- [ ] DUTAPARKIR - esp32 dispenser (config web) ✅ 08:30 - xx:xx
+
+# 2026-03-04
+- [ ] DUTAPARKIR - esp32 dispenser (feat api: tambah debounce di server) ✅ 09:00 - 10:12
+- [ ] DUTAPARKIR - esp32 dispenser (monitoring web: tambah ping camera) ✅ 09:00 - 10:12
+- [ ] DUTAPARKIR - esp32 dispenser (monitoring web: tambah camera stream) ✅ 09:00 - 10:12
+- [ ] EMBUNG GIWANGAN - check vld (tadi cabut pasang bisa lagi) ✅ 11:00 - 12:00
+- [ ] DUTAPARKIR - bikin php encrypt ✅ 13:00 - 15:47
+
+## 2026-03-05
+- [ ] DUTAPARKIR - esp32 dispenser (parse int response jadi string human readable) ✅ 09:00 - 10:12
