@@ -66,11 +66,11 @@
 - [x] PELINDO DUMAI - penambahan jam dan tanggal di tiket (perbaiki cetakmasuk.php) ✅ 08:40 - 09:37
 - [x] PELINDO DUMAI - Ubah shift ✅ 08:40 - 10:05
 - [x] GIK UGM - Tap member (acr.php return member tidak ditemukan atau kadaluarsa) ✅ 08:40 - 10:
-- [ ] GIK UGM - cek suara ✅ 09:38 - xx:xx
-- [ ] GIK UGM - tambah suara kartu expired pintu masuk dan keluar ✅ 09:38 - xx:xx
-- [ ] GIK UGM - update tampilan ✅ 09:38 - xx:xx
+- [x] GIK UGM - cek suara ✅ 09:38 - xx:xx
+- [x] GIK UGM - tambah suara kartu expired pintu masuk dan keluar ✅ 09:38 - xx:xx
+- [x] GIK UGM - update tampilan ✅ 09:38 - xx:xx
 
-- [ ] DUTAPARKIR - Prototype esp32 Dispenser 🛠️ 08:30 - xx:xx
+- [x] DUTAPARKIR - Prototype esp32 Dispenser 🛠️ 08:30 - xx:xx
 
 ## 2026-02-18
 - [x] DUTAPARKIR - Prototype esp32 Dispenser (doc: bikin do untuk suara) ✅ 08:30 - 12:00
@@ -111,20 +111,28 @@
 - [x] EMBUNG GIWANGAN - backup ✅ 08:30 - xx:xx
 - [x] EMBUNG GIWANGAN - fix dual vld ✅ 08:30 - xx:xx
 - [x] DUTAPARKIR - esp32 dispenser (pindah pin relay ke pin led soalnya pin 2 itu strapping pin, jadi ga bisa masuk ke upload mode kalau di pasang relay, relaynya pulldown) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (perbaiki request tombol) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (revisi: reset button pullup keliru) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (mp3 konslet semua pin) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (RTOS web) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (RTOS sensor) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (monitor web & led status) ✅ 08:30 - xx:xx
-- [ ] DUTAPARKIR - esp32 dispenser (config web) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (perbaiki request tombol) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (revisi: reset button pullup keliru) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (mp3 konslet semua pin) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (RTOS web) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (RTOS sensor) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (monitor web & led status) ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - esp32 dispenser (config web) ✅ 08:30 - xx:xx
 
 # 2026-03-04
-- [ ] DUTAPARKIR - esp32 dispenser (feat api: tambah debounce di server) ✅ 09:00 - 10:12
-- [ ] DUTAPARKIR - esp32 dispenser (monitoring web: tambah ping camera) ✅ 09:00 - 10:12
-- [ ] DUTAPARKIR - esp32 dispenser (monitoring web: tambah camera stream) ✅ 09:00 - 10:12
-- [ ] EMBUNG GIWANGAN - check vld (tadi cabut pasang bisa lagi) ✅ 11:00 - 12:00
-- [ ] DUTAPARKIR - bikin php encrypt ✅ 13:00 - 15:47
+- [x] DUTAPARKIR - esp32 dispenser (feat api: tambah debounce di server) ✅ 09:00 - 10:12
+- [x] DUTAPARKIR - esp32 dispenser (monitoring web: tambah ping camera) ✅ 09:00 - 10:12
+- [x] DUTAPARKIR - esp32 dispenser (monitoring web: tambah camera stream) ✅ 09:00 - 10:12
+- [x] EMBUNG GIWANGAN - check vld (tadi cabut pasang bisa lagi) ✅ 11:00 - 12:00
+- [x] DUTAPARKIR - bikin php encrypt ✅ 13:00 - 15:47
 
 ## 2026-03-05
-- [ ] DUTAPARKIR - esp32 dispenser (parse int response jadi string human readable) ✅ 09:00 - 10:12
+- [x] DUTAPARKIR - esp32 dispenser (parse int response jadi string human readable) ✅ 09:00 - 10:12
+- [x] PLTU REMBANG - cek mini pc ✅ 10:15 - 10:50 
+- [x] MIROTA GODEAN dan SIMAJUNTAK - tutup shif kirim ke server 2 ✅ 11:00 - 10:12
+- [x] PLTU REMBANG - program stb turnstile admin ✅ 14:23 - 16:20
+
+## 2026-03-05
+- [x] MIROTA GODEAN dan SIMAJUNTAK - tutup shif kirim ke server 2 ✅ 08:30 - xx:xx
+- [x] PLTU REMBANG - program stb pintu depan ✅ 08:30 - xx:xx
+- [x] GIK UGM - copy tampilan pk mobil selatan ke pk lain 
