@@ -132,7 +132,15 @@
 - [x] MIROTA GODEAN dan SIMAJUNTAK - tutup shif kirim ke server 2 ✅ 11:00 - 10:12
 - [x] PLTU REMBANG - program stb turnstile admin ✅ 14:23 - 16:20
 
-## 2026-03-05
-- [x] MIROTA GODEAN dan SIMAJUNTAK - tutup shif kirim ke server 2 ✅ 08:30 - xx:xx
-- [x] PLTU REMBANG - program stb pintu depan ✅ 08:30 - xx:xx
+## 2026-03-06
+- [x] MIROTA GODEAN dan SIMAJUNTAK - dev tutup shif kirim ke server 2 ✅ 08:30 - xx:xx
+- [x] PLTU REMBANG - program stb pintu depan ✅ 08:30 - 16:00
+- [x] GIK UGM - copy tampilan pk mobil selatan ke pk lain 
+- [x] RSUD CIAWI - ganti python menggunakan python thony (pk motor) ✅ 15:00 - 11:19
+
+## 2026-03-07
+- [x] MIROTA GODEAN dan SIMAJUNTAK - dev tutup shif kirim ke server 2 ✅ 09:20 - 09:40
+- [x] MIROTA GODEAN dan SIMAJUNTAK - upload tutup shif kirim ke server 2 ✅ 09:40 - 09:50
+- [x] DUTAPARKIR - esp32 dispenser (parse int response jadi string human readable) ✅ 09:00 - 10:12
+- [x] DUTAPARKIR - Kasir_CVDPI (rtsp stream aplikasi kasir) ✅ 11:00 - 14:08
 - [x] GIK UGM - copy tampilan pk mobil selatan ke pk lain 
