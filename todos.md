@@ -144,3 +144,30 @@
 - [x] DUTAPARKIR - esp32 dispenser (parse int response jadi string human readable) ✅ 09:00 - 10:12
 - [x] DUTAPARKIR - Kasir_CVDPI (rtsp stream aplikasi kasir) ✅ 11:00 - 14:08
 - [x] GIK UGM - copy tampilan pk mobil selatan ke pk lain 
+  
+## 2026-03-08
+- [x] PLTU REMBANG - setting stb pintu kantin auto login ✅ 09:30 - 11:00
+- [x] RSUD CIAWI - setting jam windows server belakang ✅ 13:00 - 13:19 
+
+## 2026-03-09
+- [x] MIROTA GODEAN dan SIMAJUNTAK - dev tutup shif kirim ke server 2 ✅ 09:00 - 09:26
+- [x] RSUD CIAWI - import member ✅ 09:30 - 10:30
+- [x] DUTAPARKIR - esp32 dispenser (arduino config: api key, is_cashless, is_in_out, debounce) ✅ 09:00 - 11:55 
+- [x] RSI SEMARANG - pm dak bisa (crontab masalah, program acr.py ga jalan) ✅ 12:59 - 14:00
+
+- [x] MAS MULYA - perbaiki server (copy dari hardisk yang lama -> hardisk rusak jadinya install ulang) ✅ 09:30 - xx:xx
+- [x] MAS MULYA - perbaiki server (setting tarif) ✅ 09:30 - xx:xx
+- [x] MAS MULYA - perbaiki pk (rs485 tidak terbaca) ✅ 09:30 - xx:xx
+- [x] MAS MULYA - perbaiki pk (ganti rs485, data response tidak dapat) ✅ 09:30 - xx:xx
+- [x] MAS MULYA - perbaiki pk (ganti pakai relay usb) ✅ 09:30 - xx:xx
+
+- [x] MIROTA GODEAN dan SIMAJUNTAK - menu setor (belum ada input uang di simajuntak utama) ✅ 12:59 - xx:xx
+
+## 2026-03-09
+- [x] MAS MULYA - PK ganti relay usb ch340 ✅ 09:00 - 09:22
+- [x] MAS MULYA - PK camera ga bisa nampil di kasir (masalah digest auth dan url) ✅ 09:00 - 09:59  
+- [x] MAS MULYA - PM (pm 113 ganti usb relay ch340) ✅ 10:00 - 15:34
+- [x] MAS MULYA - PM (tombol tiket tidak perlu cek vld) ✅ 10:00 - 15:34
+
+- [x] MIROTA GODEAN dan SIMAJUNTAK - menu setor (belum ada input uang di simajuntak utama - tinggal copy ke server yang di copy blade rekap.billing, rekap.bukti) ✅ 10:30 - 15:34
+- [x] GIK - COPY TAMPILAN ✅ 11:32 - 15:34
