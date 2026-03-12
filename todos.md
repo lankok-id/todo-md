@@ -184,6 +184,6 @@
 ## 2026-03-12
 - [x] MIROTA - perbaiki menu setoran (table rekap_copy belum ada) ✅ 08:30 - 11:08
 - [x] MIROTA - perbaiki query laporan setoranController (ganti join pakai left join) ✅ 08:30 - 11:53
-- [x] RSUD BENGKULU - Tiket tidak bisa (crontab ) ✅ 08:47 - 09:20
+- [x] RSUD BENGKULU - Tiket tidak bisa (crontab yang seharusnya /home/pi/parkir__pycache__/.... malah jadi /home/pi/parkir/__pycache__/....) ✅ 08:47 - 09:20
 - [x] DUTAPARKIR - memahami materi presentasi ✅ 09:30 - 09:40
 - [x] MIROTA - BACKUP ✅ 13:15 - 15:00
