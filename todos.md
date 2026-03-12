@@ -163,7 +163,7 @@
 
 - [x] MIROTA GODEAN dan SIMAJUNTAK - menu setor (belum ada input uang di simajuntak utama) ✅ 12:59 - xx:xx
 
-## 2026-03-09
+## 2026-03-10
 - [x] MAS MULYA - PK ganti relay usb ch340 ✅ 09:00 - 09:22
 - [x] MAS MULYA - PK camera ga bisa nampil di kasir (masalah digest auth dan url) ✅ 09:00 - 09:59  
 - [x] MAS MULYA - PM (pm 113 ganti usb relay ch340) ✅ 10:00 - 15:34
@@ -171,3 +171,19 @@
 
 - [x] MIROTA GODEAN dan SIMAJUNTAK - menu setor (belum ada input uang di simajuntak utama - tinggal copy ke server yang di copy blade rekap.billing, rekap.bukti) ✅ 10:30 - 15:34
 - [x] GIK - COPY TAMPILAN ✅ 11:32 - 15:34
+
+## 2026-03-11
+- [x] XL - pandu akses server utama ✅ 09:25 - 09:39
+- [x] AINO - pandu akses server utama ✅ 10:00 - xx:xx
+
+- [x] MIROTA GODEAN dan SIMAJUNTAK - upload update blade "views/rekap/billing", "views/rekap/bukti", "controller/rekapController" ✅ 08:30 - xx:xx
+- [x] DUTAPARKIR - test acr.py ✅ 08:30 - xx:xx
+- [x] RSI SEMARANG - cetak struk langsung tanpa tombol ✅ 09:13 - xx:xx 
+- [x] GIK UGM - corupt pintu keluar ✅ 13:30 - 15:56 
+
+## 2026-03-12
+- [x] MIROTA - perbaiki menu setoran (table rekap_copy belum ada) ✅ 08:30 - 11:08
+- [x] MIROTA - perbaiki query laporan setoranController (ganti join pakai left join) ✅ 08:30 - 11:53
+- [x] RSUD BENGKULU - Tiket tidak bisa (crontab ) ✅ 08:47 - 09:20
+- [x] DUTAPARKIR - memahami materi presentasi ✅ 09:30 - 09:40
+- [x] MIROTA - BACKUP ✅ 13:15 - 15:00
