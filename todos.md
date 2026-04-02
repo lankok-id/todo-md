@@ -187,3 +187,24 @@
 - [x] RSUD BENGKULU - Tiket tidak bisa (crontab yang seharusnya /home/pi/parkir__pycache__/.... malah jadi /home/pi/parkir/__pycache__/....) ✅ 08:47 - 09:20
 - [x] DUTAPARKIR - memahami materi presentasi ✅ 09:30 - 09:40
 - [x] MIROTA - BACKUP ✅ 13:15 - 15:00
+
+## 2026-03-14
+- [x] MIROTA - fitur rekap setoran ✅ 08:45 - 10:07
+
+## 2026-03-31
+- [x] PANAJAM - UBAH SSL dan dokumentasikan untuk di cek bank kaltim ✅ 08:30 - 10:38
+- [x] DUTAPARKIR - Screenshoot fitur admin wahana tiketing kartu dari cambaihill untuk bahan presesntasi mbak nia ✅ 08:30 - 10:00
+- [x] DUTAPARKIR - Online member ✅ 08:30 - 10:00
+- [x] panajam - ngurusin qris lagi pakai program lama bisa lagi ✅ 13:00 - 14:17 
+- [x] XL DJOGJA - Cek setelmen (kirim manual bisa, apa task scheduler ga jalan?? coba nyalain history taskscheduler) ✅ 13:00 - 14:00
+- [x] DUTAPARKIR - Coba telegram bot kirim ke orang lain ✅ 14:00 - 16:00 
+- [x] panajam - ngurusin qris lagi ✅ 14:00 - 16:00 
+
+## 2026-04-01
+- [x] PANAJAM - ngurusin qris lagi, perbaki format auth bearer yang sebelumnya `Authoriztion: <token>` jadi `Authorization: Bearer <token>` tapi ga jalan ✅ 08:30 - 09:30
+- [x] PANAJAM - ngurusin qris lagi, ubah flow ngisi qris buffer yang sebelumnya satu jenisk satu process sekarang jadi satu process tapi di gilir, soalnya kalau satu jenisk satu process kalau request barengan dan authkey salah dia bakal ke block dianggap bruteforce ✅ 08:30 - 11:37
+- [x] PANAJAM - seakarang sudah bisa jalan tapi belum di jalankan ke crontab, soalnya mau cek dulu kenapa responsenya bisa rata rata di atas 10 detik dan sering operation timeout yang saya set di 30 detik 
+
+## 2026-04-02
+- [x] PANAJAM - kasih sleep 30 detik kalau 401 ✅ 08:30 - 10:14
+- [x] DUTAPARKIR - ESP32 test relay sudah bisa tapi masih di 3v baiknya pindah ke 5v, trus untuk tombol reset nantinya pindah ke i36 ✅ 08:30 - 10:15
