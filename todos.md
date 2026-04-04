@@ -206,5 +206,15 @@
 - [x] PANAJAM - seakarang sudah bisa jalan tapi belum di jalankan ke crontab, soalnya mau cek dulu kenapa responsenya bisa rata rata di atas 10 detik dan sering operation timeout yang saya set di 30 detik 
 
 ## 2026-04-02
-- [x] PANAJAM - kasih sleep 30 detik kalau 401 ✅ 08:30 - 10:14
+- [x] PANAJAM - kasih sleep 30 detik kalau 401 ✅ 08:30 - 10:35
 - [x] DUTAPARKIR - ESP32 test relay sudah bisa tapi masih di 3v baiknya pindah ke 5v, trus untuk tombol reset nantinya pindah ke i36 ✅ 08:30 - 10:15
+- [x] PANAJAM - Pantau qris buffer ✅ 08:30 - 11:37
+- [x] PANAJAM - Ambil qris refill gagal karna id duplicate  ✅ 13:10 - 11:37
+- [x] DUTAPARKIR - ESP32 ganti initial state relay HIGH ✅ 11:37 - 12:00 
+- [x] DUTAPARKIR - Coba telegram bot request user phone number ✅ 11:37 - 12:00 
+- [x] GIK - Ke lokaksi backup pintu ✅ 13:37 - 18:00 
+
+## 2026-04-03
+- TANGGAL MERAH
+
+## 2026-04-04
