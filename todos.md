@@ -218,4 +218,14 @@
 - [x] CIAWI - Cek config espos kemaren sudah di ganti jadi 10 menit tapi ga ke apply katanya ✅ 10:00 - 10:15
 
 ## 2026-04-07
-- [x] XL ADISUCIPTO - Backup program server ✅ 08:40 - 10:15
+- [x] XL ADISUCIPTO - Backup program server ✅ 08:40 - 09:15
+- [x] XL ADISUCIPTO - Backup program pintu ✅ 09:15 - 09:33
+- [x] XL ADISUCIPTO - Bikin program php `masuk-sti-bayar-depan-*.php` dan `masuk-sti-bayar-depan-*.py` ✅ 09:33 - xx:xx
+- [x] XL ADISUCIPTO - mysql bikin column `kode` di table `keluar` unique ✅ 09:33 - 10:10
+- [x] MIROTA - katanya laporannya ga sesuai ✅ 09:49 - 09:49
+- [x] MIROTA - menu laproan setoran kosong (karna setorannya belum di setorkan) ✅ 09:59 - 09:59
+- [x] DEPATI BAHRIN - kasih list ip ✅ 11:23 - 11:30
+- [x] DEPATI BAHRIN - install cctv viewer ✅ 12:00 - 12:15
+- [x] AT-TUROT - stuck di karcis ✅ 13:00 - 13:24
+- [x] XL ADISUCITPTO - internet maslah ✅ 14:30 - 14:59
+- [x] XL ADISUCITPTO - masalah pintu masuk pintu ga bisa buka, sudah cetik ✅ 15:00 - 16:22
